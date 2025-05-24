@@ -1,4 +1,4 @@
-package com.autoramming;
+package com.autoramming.interviews;
 
 public class FixTheCreditCard {
 

@@ -1,4 +1,4 @@
-package com.autoramming;
+package com.autoramming.interviews;
 
 /** PROBLEM STATEMENT
  * In an Excel, the columns A, B, C etc. is numbered as 1, 2, 3 in a java program
