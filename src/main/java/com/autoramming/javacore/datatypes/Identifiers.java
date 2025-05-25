@@ -12,10 +12,11 @@ public class Identifiers {
         // Exception names
 
         // Identifier naming conventions:
-        // 1. Start with a letter or underscore
-        // 2. Can contain letters, digits, underscores, and dollar signs
-        // 3. Cannot start with a digit
+        // 1. Start with letter (a-z, A-Z), an underscore (_), or a dollar sign ($)
+        // 2. Cannot start with a digit (0-9)
+        // 3. Can contain letters, digits, underscores, and dollar signs
         // 4. Must be unique within the scope of the identifier
+        // 5. Case-sensitive (myVariable and myvariable are different identifiers)
 
         // Examples of valid identifiers:
         int myVariable = 10;
