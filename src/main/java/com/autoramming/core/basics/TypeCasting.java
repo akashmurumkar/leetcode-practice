@@ -1,4 +1,4 @@
-package com.autoramming.javacore.datatypes;
+package com.autoramming.core.basics;
 
 public class TypeCasting {
     public static void main(String[] args) {

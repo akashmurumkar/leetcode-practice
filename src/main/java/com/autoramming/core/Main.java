@@ -1,4 +1,4 @@
-package com.autoramming.javacore;
+package com.autoramming.core;
 
 public class Main {
     public static void main(String[] args) {

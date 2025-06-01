@@ -1,4 +1,4 @@
-package com.autoramming.javacore.datatypes;
+package com.autoramming.core.basics;
 
 public class Identifiers {
 
@@ -41,7 +41,7 @@ public class Identifiers {
         printMessage();
 
         // Package names example
-        com.autoramming.javacore.datatypes.Primitive primitiveExample = new com.autoramming.javacore.datatypes.Primitive();
+        com.autoramming.core.basics.Primitive primitiveExample = new com.autoramming.core.basics.Primitive();
 
         // Interface names example
         Runnable myRunnable = new Runnable() {
